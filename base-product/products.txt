@@ -1,0 +1,8 @@
+Electronics|1|Laptop|999.99|Dell|24|laptop.png
+Electronics|2|Smartphone|699.99|Samsung|12|smartphone.png
+Electronics|3|Headphones|149.99|Sony|18|headphones.png
+Clothing|4|T-Shirt|29.99|L|Cotton|tshirt.png
+Clothing|5|Jeans|59.99|M|Denim|jeans.png
+Clothing|6|Jacket|89.99|L|Polyester|jacket.png
+Food|7|Chocolate Box|12.99|2026-12-01|500|chocolate.png
+Food|8|Coffee Beans|19.99|2027-03-15|1000|coffee.png
