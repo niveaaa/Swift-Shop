@@ -57,7 +57,7 @@ g++ -o Swift-Shop main.cpp Shop.cpp base-product/Product.cpp products/Electronic
 
 Enter your name: Ankita
 
-Welcome, John!
+Welcome, Ankita!
 
 --- Main Menu ---
 1. Browse Products
